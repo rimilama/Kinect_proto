@@ -94,6 +94,7 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\Choice.cs" />
     <Compile Include="Assets\Scripts\Kinect.cs" />
     <Compile Include="Assets\Scripts\Mouvement.cs" />
   </ItemGroup>
