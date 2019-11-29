@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test proto kinect.Plugins", "Test proto kinect.Plugins.csproj", "{2F3213FC-40AC-445C-2651-F45645CDC3C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test proto kinect", "Test proto kinect.csproj", "{6BB5C73F-53B0-96F7-869B-5B1E82B699FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test proto kinect.Editor.Plugins", "Test proto kinect.Editor.Plugins.csproj", "{35DBFE70-59AA-5FDA-54EE-3711D2F972CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F3213FC-40AC-445C-2651-F45645CDC3C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F3213FC-40AC-445C-2651-F45645CDC3C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F3213FC-40AC-445C-2651-F45645CDC3C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F3213FC-40AC-445C-2651-F45645CDC3C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BB5C73F-53B0-96F7-869B-5B1E82B699FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BB5C73F-53B0-96F7-869B-5B1E82B699FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BB5C73F-53B0-96F7-869B-5B1E82B699FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BB5C73F-53B0-96F7-869B-5B1E82B699FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35DBFE70-59AA-5FDA-54EE-3711D2F972CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35DBFE70-59AA-5FDA-54EE-3711D2F972CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35DBFE70-59AA-5FDA-54EE-3711D2F972CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35DBFE70-59AA-5FDA-54EE-3711D2F972CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
